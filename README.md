@@ -1,4 +1,6 @@
-## Hi there 👋
+Estou estudando na Alura 
+estou me desenvolvendo na linguagem JavaScript
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos  desenvolvidos ## Hi there 👋
 
 <!--
 **LELEKWALL/LELEKWALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
